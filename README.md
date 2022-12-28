@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kervens PAULINA (@KodePro)
 -    I have 21 years, and I'm Haitian
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning the language of programming Java.
+- 👀 I’m interested in programming and web.
+- 🌱 I’m currently learning the language of programming Java and the web framwork django.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, (E-mail: kervenspaulina1804@gmail.com, Twitter: @kervenspaulina, Phone Number: 509 4339-2640/ 509 4471-4060, IG: @callmehkevin).
 
